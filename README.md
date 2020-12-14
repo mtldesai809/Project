@@ -12,12 +12,18 @@ http://eve.kean.edu/~desaimit/TECH3500/Final/index.html
 
 for the Final project here are the creditianl details
 
-Faculty
-Username      Password
-Robert        Robert
-David         David
+To access Faculty-1 
+Username:- Robert
+Password:- Robert
 
-Student
-Username      Password
-Mitts         Mitts
-Alisha        Alisha
+To access Faculty-2
+Username:- David
+Password:- David
+
+To access Faculty-2
+Username:- Mitts
+Password:- Mitts
+
+To access Faculty-2
+Username:- Alisha
+Password:- Alisha
