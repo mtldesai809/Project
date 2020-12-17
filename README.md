@@ -22,10 +22,10 @@ To access Faculty-2
 Username:- David
 Password:- David
 
-To access Faculty-2
+To access Student-1
 Username:- Mitts
 Password:- Mitts
 
-To access Faculty-2
+To access Student-2
 Username:- Alisha
 Password:- Alisha
